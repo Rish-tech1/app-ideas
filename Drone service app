@@ -1,0 +1,11 @@
+Drone service app
+Experience the future of aerial services with a revolutionary drone service app. From capturing stunning aerial photography to conducting efficient surveying and mapping missions, and even facilitating quick and secure delivery of goods. This app seamlessly connects you with a network of skilled and professional drone operators. Discover the convenience, versatility, and endless possibilities of drone technology right at your fingertips. Elevate your perspective and unlock a whole new world of possibilities with our cutting-edge drone service app.
+TECHSTACK:-
+Front-end. Development technologies that can help you with building the interface for interaction with your users. The mobile app's layout includes the interface developers' products, such as buttons, animations, hush function, business logic, and links. Thus, a mobile app's back-end handles the server-side code and the database.
+
+Platform. A mobile platform such as iOS or Android provides the operating system and development tools to build and run the app. This might include technologies like iOS SDK or Android SDK and programming languages such as Objective-C, Swift, Java, or Kotlin.
+
+Hosting. Hosting ensures that server-side code runs and provides the application to users. This hosting environment includes Linux, Apache, and Amazon Web Services (AWS).
+
+These critical steps determine the application's features, programming languages, tools, and the team you work with.
+java ,kotlin,flutter
